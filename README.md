@@ -47,14 +47,6 @@ Desenvolvimento de BFS, DFS e IDFS aplicados ao problema do 8-puzzle com anális
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bissolion&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bissolion&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Contato
 
 - Email: luizfelipegolopes@gmail.com
