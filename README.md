@@ -49,11 +49,9 @@ Desenvolvimento de BFS, DFS e IDFS aplicados ao problema do 8-puzzle com anális
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bissolion&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight)
-
-> Substitua `Bissolion` pelo seu username do GitHub.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bissolion&layout=compact&theme=tokyonight)
 
 ---
 
